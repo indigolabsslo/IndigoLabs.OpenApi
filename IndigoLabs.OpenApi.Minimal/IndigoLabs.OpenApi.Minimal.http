@@ -1,0 +1,6 @@
+@IndigoLabs.OpenApi.Minimal_HostAddress = http://localhost:5223
+
+GET {{IndigoLabs.OpenApi.Minimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

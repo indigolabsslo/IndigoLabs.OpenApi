@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndigoLabs.OpenApi.Controller", "IndigoLabs.OpenApi.Controller\IndigoLabs.OpenApi.Controller.csproj", "{03B379B0-69CD-43E1-8EED-3A799DCA82AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndigoLabs.OpenApi.Minimal", "IndigoLabs.OpenApi.Minimal\IndigoLabs.OpenApi.Minimal.csproj", "{55638DBD-C361-4488-9EEB-BA0D2F66C1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndigoLabs.OpenApi.Shared", "IndigoLabs.OpenApi.Shared\IndigoLabs.OpenApi.Shared.csproj", "{6EDF04EB-911F-46C4-8CE3-3FBA164E4B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B379B0-69CD-43E1-8EED-3A799DCA82AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B379B0-69CD-43E1-8EED-3A799DCA82AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B379B0-69CD-43E1-8EED-3A799DCA82AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B379B0-69CD-43E1-8EED-3A799DCA82AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55638DBD-C361-4488-9EEB-BA0D2F66C1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55638DBD-C361-4488-9EEB-BA0D2F66C1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55638DBD-C361-4488-9EEB-BA0D2F66C1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55638DBD-C361-4488-9EEB-BA0D2F66C1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDF04EB-911F-46C4-8CE3-3FBA164E4B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDF04EB-911F-46C4-8CE3-3FBA164E4B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDF04EB-911F-46C4-8CE3-3FBA164E4B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDF04EB-911F-46C4-8CE3-3FBA164E4B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC8E505-3021-4A0D-A951-C7A6C79AEC96}
+	EndGlobalSection
+EndGlobal
